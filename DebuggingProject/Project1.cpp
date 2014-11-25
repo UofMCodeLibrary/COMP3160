@@ -21,6 +21,9 @@ int main(int nNumberofArgs, char *pszArgs[])
 	nNums = 0;
 	while(true)
 	{
+		// Debugging Output to check if values are as expected.
+		//cout << “nNums = “ << nNums << endl;
+		
 		// enter another number to add
 		int nValue;
 		cout << "Enter another number:";
@@ -40,6 +43,9 @@ int main(int nNumberofArgs, char *pszArgs[])
 		// not negative, add the value to
 		// the accumulator
 		nSum += nValue;
+		
+		// increment nNums at end of loop.
+		nNums++;
 	}
 
 	cin.ignore(10000, '\n');
