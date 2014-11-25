@@ -1,0 +1,12 @@
+Really, though, the biggest benefit of using GitHub is that it is a socially aware system, and makes coding on a team
+  easier, both for the students and for the instructor. It's pretty rare that coders are completely independent
+  workers, especially as projects continually grow in scale and scope. Students can independently work on the project 
+  while still working as a team. Permissions can be as lax or as stringent as the group wants. Do they want a single
+  leader approving changes or maybe a more egalitarian approach where everyone has open commit privs? What ground rules
+  should they lay down on how work is done? What sort of structure should there be?
+  
+Each team member can work in their own branches of the project, and then merge their branches back to master as problems
+  get solved and progress is made. At the end of it, they simply give you a pull request with their finished project.
+  You can check their code and make sure everything works, just like any other group project, but more importantly, 
+  you can see just how much work was done by each member by looking at the commit history. It's no longer an issue of
+  asking everyone if the whole team contributed, you have hard evidence on who contributed and how much.
